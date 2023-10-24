@@ -1,4 +1,4 @@
-git clone https://github.com/OMAR-MOD-388/facsebook/facebook.py
+git clone https://github.com/OMAR-MOD-388/facsebook/
 
 
 
