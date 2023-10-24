@@ -9,4 +9,4 @@ cd facebook
 
 
 
-python عمر مود.py
+python FACEBOOK.PY
