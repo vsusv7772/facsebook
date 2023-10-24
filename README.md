@@ -9,4 +9,4 @@ cd facebook
 
 
 
-python FACEBOOK.PY
+python FACEBOOK.py
