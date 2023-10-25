@@ -9,4 +9,4 @@ cd facebook
 
 
 
-python FACEBOOK.py
+python NEW_FAEC.py
