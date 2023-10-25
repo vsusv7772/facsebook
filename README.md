@@ -9,4 +9,4 @@ cd facsebook/
 
 
 
-python NEW_FAEC.py
+python NEW_FACE.py
